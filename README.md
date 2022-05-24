@@ -1,3 +1,10 @@
+# Description about app
+# It is a simple film app where you can add films by filling out the input boxes and delete the film if needed.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
